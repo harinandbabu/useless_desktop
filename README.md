@@ -100,6 +100,10 @@ Enjoy doing absolutely nothing useful.
 
 # Workflow
 
+### Workflow Diagram
+
+![TrustOS Workflow](screenshots/workflow.png)
+
 ### Project Demo
 # Video
 [Add your demo video link here]

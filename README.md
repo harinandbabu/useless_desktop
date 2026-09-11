@@ -112,7 +112,8 @@ The TrustOS workflow starts when the user opens TrustOS in a web browser. The us
 ### Project Demo
 
 https://drive.google.com/file/d/1N6HH7MraBrr2iEqTBIvG9u80OdLtAaE_/view?usp=sharing
-*Explain what the video demonstrates*](https://drive.google.com/file/d/1N6HH7MraBrr2iEqTBIvG9u80OdLtAaE_/view?usp=sharing)
+
+This demo video showcases TrustOS, a completely useless fake desktop operating system. It demonstrates the main desktop, File Explorer, Calculator, Visual Studio Code, YouTube, and other funny system features. Each application looks useful but gives unexpected and useless results.
 
 ## Team Contributions
 

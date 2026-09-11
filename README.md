@@ -88,16 +88,19 @@ Enjoy doing absolutely nothing useful.
 
 ### Project Documentation
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![TrustOS Desktop](screenshots/desktop.png)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+**TrustOS Desktop:** The main TrustOS desktop showing the File Explorer, Visual Studio Code, YouTube, and Calculator applications.
 
+![TrustOS Applications](screenshots/apps.png)
+
+**TrustOS Applications:** Shows multiple applications running at the same time. The File Explorer displays useless folders, while YouTube gives the funny message **"Error: Motivation not found."**
+
+![Trust Calculator](screenshots/calculator.png)
+
+**Trust Calculator:** A fully functional-looking calculator with a useless twist. It is designed to give intentionally incorrect answers, making a normal calculator completely unreliable.
 # Workflow
 
 ![TrustOS Workflow](workflow.png)

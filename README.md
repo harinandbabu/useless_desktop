@@ -98,7 +98,7 @@ Enjoy doing absolutely nothing useful.
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-#Workflow
+# Workflow
 
 ### Project Demo
 # Video

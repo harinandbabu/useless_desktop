@@ -2,50 +2,91 @@
 
 
 
-# [Project Name] 🎯
+# Useless Desktop TrustOS 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: pnr boys
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Harinand Babu - MES Collage Of Engineering And Technology,Kunnukara,Ernakulam
+- Member 2: Abhishek P V - MES Collage Of Engineering And Technology,Kunnukara,Ernakulam
 
 ### Project Description
-[2-3 lines about what your project does]
+TrustOS is a completely useless desktop operating system designed to make you less productive. It has a fake File Explorer, a Calculator that gives wrong answers, a Code Editor that stops you from coding, and many other useless features.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are becoming too productive.
+
+They need a system that helps them waste time, avoid coding, get wrong answers, and feel productive without actually doing anything.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Introducing TrustOS — the operating system you can trust to waste your time.
+
+📁 File Explorer — Contains files like Things I Will Read Later and productivity_avoidance_plan.pdf.
+
+💻 VS Code — Tries to stop you from coding after a few seconds.
+
+🧮 Calculator — Gives you a confidently wrong answer.
+
+▶️ YouTube — Searches for motivation but can't find any.
+
+🔋 Battery — 100% charged, 0% motivated.
+
+📶 Wi-Fi — Connected to your imagination.
+
+⚙️ Settings — Busy making settings.
+
+🧠 Trust Assistant — Makes you look productive from far away.
 
 ## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+### Technologies Used
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+HTML
+
+CSS
+
+JavaScript
+
+No frameworks
+
+No backend
+
+No database
+
+100% uselessness
 
 ### Implementation
-For Software:
-# Installation
-[commands]
+
+TrustOS is implemented as a web-based fake desktop operating system using HTML, CSS and JavaScript.
+
+- **HTML** is used to create the desktop, taskbar, start menu, windows and application structure.
+- **CSS** is used to design the Windows-like interface, icons, animations and overall appearance.
+- **JavaScript** is used to make the applications interactive and add the useless features.
+
+The main features implemented are:
+
+- Fake File Explorer with useless files and folders.
+- Calculator that intentionally gives wrong answers.
+- Code Editor that stops the user from coding.
+- Fake YouTube app that fails to find motivation.
+- Fake Settings, Browser, Notes and Photos apps.
+- Behaviour Monitor that detects when the user opens too many apps.
+- Fake Wi-Fi, battery, volume and weather information.
+- Draggable application windows and taskbar interactions.
+
+The project runs completely in the browser and does not require a backend, database or external server.
 
 # Run
-[commands]
+
+ yourClone the repository.
+
+Open index.html in browser.
+
+Enjoy doing absolutely nothing useful.
 
 ### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)

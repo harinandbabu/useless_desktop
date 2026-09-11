@@ -100,9 +100,11 @@ Enjoy doing absolutely nothing useful.
 
 # Workflow
 
-### Workflow Diagram
-
 ![TrustOS Workflow](workflow.png)
+
+### Workflow Description
+
+The TrustOS workflow starts when the user opens TrustOS in a web browser. The user enters the fake desktop and selects an application such as File Explorer, Calculator, VS Code or YouTube. Each application gives a useless, funny or unexpected response instead of doing its normal job. The user can close the application and return to the desktop, creating a cycle of useless interactions. The workflow shows how TrustOS is designed to look like a normal operating system while making the user less productive.
 
 ### Project Demo
 # Video

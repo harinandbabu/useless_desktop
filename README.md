@@ -90,15 +90,15 @@ Enjoy doing absolutely nothing useful.
 
 # Screenshots 
 
-![TrustOS Desktop](screenshots/desktop.png)
+![TrustOS Desktop](desktop.png)
 
 **TrustOS Desktop:** The main TrustOS desktop showing the File Explorer, Visual Studio Code, YouTube, and Calculator applications.
 
-![TrustOS Applications](screenshots/apps.png)
+![TrustOS Applications](apps.png)
 
 **TrustOS Applications:** Shows multiple applications running at the same time. The File Explorer displays useless folders, while YouTube gives the funny message **"Error: Motivation not found."**
 
-![Trust Calculator](screenshots/calculator.png)
+![Trust Calculator](calculator.png)
 
 **Trust Calculator:** A fully functional-looking calculator with a useless twist. It is designed to give intentionally incorrect answers, making a normal calculator completely unreliable.
 # Workflow

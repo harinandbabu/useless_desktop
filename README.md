@@ -80,7 +80,7 @@ The project runs completely in the browser and does not require a backend, datab
 
 # Run
 
- yourClone the repository.
+Clone the repository.
 
 Open index.html in browser.
 
@@ -98,41 +98,21 @@ Enjoy doing absolutely nothing useful.
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+
+Designed and developed the TrustOS interface
+
+Created the fake desktop applications
+
+Added the useless interactions and funny system messages
+
+Tested the system to make sure it remained completely useless
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

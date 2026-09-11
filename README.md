@@ -102,7 +102,7 @@ Enjoy doing absolutely nothing useful.
 
 ### Workflow Diagram
 
-![TrustOS Workflow](screenshots/workflow.png)
+![TrustOS Workflow](workflow.png)
 
 ### Project Demo
 # Video

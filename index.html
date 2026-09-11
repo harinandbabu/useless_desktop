@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TrustOS</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="desktop">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-dot"></span>
+        TrustOS
+        <small>Workspace</small>
+      </div>
+      <div class="top-status">All systems normal</div>
+    </header>
+
+    <section class="desktop-icons">
+      <button class="app-icon" id="explorerButton">
+        <span class="icon explorer-icon">📁</span>
+        <span>File Explorer</span>
+      </button>
+
+      <button class="app-icon" id="codeButton">
+        <span class="icon vscode-icon">
+          <svg viewBox="0 0 64 64" aria-hidden="true">
+            <path d="M46 8 59 15v34L46 56 25 40 13 50 5 45l13-13L5 19l8-5 12 10L46 8Zm1 15L32 32l15 9V23Z"></path>
+          </svg>
+        </span>
+        <span>Visual Studio Code</span>
+      </button>
+
+      <button class="app-icon" id="youtubeButton">
+        <span class="icon youtube-icon">▶</span>
+        <span>YouTube</span>
+      </button>
+
+      <button class="app-icon" id="calculatorButton">
+        <span class="icon calculator-icon">＋</span>
+        <span>Calculator</span>
+      </button>
+    </section>
+
+    <section id="windows"></section>
+
+    <section id="errorDialog" class="error-dialog">
+      <div class="error-titlebar">
+        <span id="errorTitle">TrustOS System Message</span>
+        <button id="errorClose" class="error-close">×</button>
+      </div>
+
+      <div class="error-body">
+        <p id="errorMessage">Something useless happened.</p>
+      </div>
+
+      <div class="error-actions">
+        <button id="errorNo" class="dialog-secondary" hidden>No</button>
+        <button id="errorYes">OK</button>
+      </div>
+    </section>
+
+    <section id="startMenu" class="start-menu">
+      <div class="start-menu-header">
+        <div class="profile-circle">T</div>
+        <div>
+          <strong>Trust User</strong>
+          <small>Local account</small>
+        </div>
+      </div>
+
+      <p class="menu-label">Pinned</p>
+
+      <div class="pinned-apps">
+        <button data-popup="Settings is busy making settings.">
+          ⚙<span>Settings</span>
+        </button>
+        <button data-popup="Photos found 0 photos of your productivity.">
+          🖼<span>Photos</span>
+        </button>
+        <button data-popup="Notes says: Remember to remember something.">
+          📝<span>Notes</span>
+        </button>
+        <button data-popup="Browser opened mentally, but not physically.">
+          🌐<span>Browser</span>
+        </button>
+      </div>
+
+      <div class="recommended">
+        <p class="menu-label">Recommended</p>
+        <button data-popup="Opening Project ideas.txt... ideas successfully misplaced.">
+          📄 Project ideas.txt
+        </button>
+        <button data-popup="This file is definitely important. Do not read it.">
+          📄 Definitely important.docx
+        </button>
+      </div>
+    </section>
+
+    <footer class="taskbar">
+      <div class="taskbar-left">
+        <button id="startButton" class="taskbar-button start-button">⊞</button>
+      </div>
+
+      <div class="taskbar-apps">
+        <button class="taskbar-button" data-popup="Search is currently searching for a reason to exist.">⌕</button>
+        <button class="taskbar-button" data-popup="Task view: 0 tasks completed. Perfect.">▣</button>
+        <button class="taskbar-button" data-popup="Trust Assistant: You look productive from far away.">✦</button>
+        <button class="taskbar-button" data-popup="Widgets report: the weather is emotionally cloudy.">▤</button>
+      </div>
+
+      <div class="taskbar-controls">
+        <button class="control-button" data-popup="Wi-Fi is connected to your imagination.">⌁</button>
+        <button class="control-button" data-popup="Volume: loud enough to avoid responsibility.">◖</button>
+        <button class="control-button" data-popup="Battery: 100% charged, 0% motivated.">▰</button>
+
+        <div class="date-time">
+          <span id="taskTime"></span>
+          <span id="taskDate"></span>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
